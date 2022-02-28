@@ -7,3 +7,6 @@ components:
 resources:
   - clusterrolebinding.yaml
   - serviceaccount.yaml
+
+patchesStrategicMerge:
+  - deployment.yaml
