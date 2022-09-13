@@ -1,3 +1,8 @@
+> # ⚠️ Deprecation notice
+>
+> As of 1.2.0 the Redis operator comes with a [Kustomize setup](https://github.com/spotahome/redis-operator#using-kustomize) based on this one.
+> Therefore, there is no need to maintain this repository anymore.
+
 # Kustomize deployment manifests for [spotahome/redis-operator](https://github.com/spotahome/redis-operator)
 
 This repo contains manifests to install [spotahome/redis-operator](https://github.com/spotahome/redis-operator) using [Kustomize](https://kustomize.io/).
